@@ -1,0 +1,35 @@
+body {
+    background-color: #fff3e6;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-height: 400px;
+    max-width: fit-content;
+}
+
+.ingredients {
+    display: block;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: aliceblue;
+    max-width:350px
+}
+
+.steps {
+    display: block;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #ffcccc;
+    max-width:350px
+}
