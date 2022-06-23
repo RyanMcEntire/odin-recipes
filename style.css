@@ -2,6 +2,8 @@ body {
     background-color: #fff3e6;
     margin-top: 50px;
     margin-left: 40px;
+    line-height: 1.25;
+    word-spacing: 1.5;
 }
 
 h1 {
@@ -18,10 +20,22 @@ img {
     max-width: fit-content;
 }
 
+.intro {
+    display: block;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background-color: #e6e6ff;
+    max-width:350px
+}
+
+
 .ingredients {
     display: block;
     border-radius: 10px;
     padding: 20px;
+    margin-bottom: 20px;
     background-color: aliceblue;
     max-width:350px
 }
@@ -32,4 +46,22 @@ img {
     padding: 20px;
     background-color: #ffcccc;
     max-width:350px
+} 
+
+h1 {
+    font-family: Rockwell, "Times New Roman", "Lucida Sans Typewriter";
+}
+
+.u-list {
+    padding-left: 40px;
+    padding-right: 30px;
+}
+
+.o-list {
+    padding-left: 40px;
+    padding-right: 30px;
+}
+
+h2 {
+    text-align: center;
 }
